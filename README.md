@@ -6,7 +6,7 @@ a serverless v2ray tunnel
 ### Easy Deploy (recommended)
 click on the button below:
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/amiremohamadi/tunl)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/petualangz/tunl)
 
 and visit https://{YOUR-WORKERS-SUBDOMAIN}.workers.dev/link to get the config links.
 
